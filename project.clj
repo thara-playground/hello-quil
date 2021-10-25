@@ -3,5 +3,6 @@
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :main "hello-quil.core"
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [quil "4.0.0-SNAPSHOT"]])
